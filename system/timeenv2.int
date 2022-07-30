@@ -1,0 +1,493 @@
+[EnvType]
+EnvType=2
+;기본
+[SunColor]
+NUM=5
+Color1=(T=6,R=255,G=122,B=23)
+Color2=(T=8,R=255,G=219,B=151)
+Color3=(T=15,R=255,G=219,B=151)
+Color4=(T=20,R=255,G=174,B=125)
+Color5=(T=24,R=162,G=65,B=0)
+
+[SunScale]
+NUM=5
+Scale1=(T=6,S=0.5)
+Scale2=(T=8,S=0.5)
+Scale3=(T=12,S=0.5)
+Scale4=(T=16,S=0.5)
+Scale5=(T=18,S=0.5)
+
+[MoonColor]
+NUM=5
+Color1=(T=0,R=255,G=180,B=151)
+Color2=(T=2,R=255,G=115,B=21)
+Color3=(T=3,R=255,G=115,B=21)
+Color4=(T=4,R=255,G=218,B=121)
+Color5=(T=6,R=162,G=65,B=0)
+
+[MoonScale]
+NUM=5
+Scale1=(T=0,S=3.0)
+Scale2=(T=2,S=5.0)
+Scale3=(T=3,S=7.0)
+Scale4=(T=4,S=6.0)
+Scale5=(T=6,S=3.0)
+
+
+[SkyBoxColor]
+NUM=25
+;밤
+COLOR1=(T=0,R=1,G=2,B=18)
+COLOR2=(T=1,R=1,G=2,B=05)
+COLOR3=(T=2,R=0,G=0,B=0)
+COLOR4=(T=3,R=0,G=0,B=0)
+COLOR5=(T=4,R=5,G=15,B=20)
+;새벽
+COLOR6=(T=5,R=15,G=25,B=40)
+COLOR7=(T=6,R=35,G=50,B=60)
+;아침
+COLOR8=(T=7,R=55,G=60,B=80)
+COLOR9=(T=8,R=85,G=75,B=100)
+COLOR10=(T=9,R=95,G=95,B=130)
+COLOR11=(T=10,R=110,G=73,B=160)
+;중천
+COLOR12=(T=11,R=137,G=73,B=170)
+COLOR13=(T=12,R=137,G=73,B=170)
+COLOR14=(T=13,R=137,G=73,B=170)
+COLOR15=(T=14,R=137,G=73,B=170)
+COLOR16=(T=15,R=137,G=73,B=170)
+COLOR17=(T=16,R=137,G=73,B=170)
+COLOR18=(T=17,R=137,G=73,B=170)
+;노을시작
+COLOR19=(T=18,R=115,G=55,B=160)
+COLOR20=(T=19,R=100,G=55,B=140)
+COLOR21=(T=20,R=80,G=45,B=113)
+COLOR22=(T=21,R=60,G=35,B=86)
+;완전노을
+COLOR23=(T=22,R=40,G=25,B=54) 
+COLOR24=(T=23,R=20,G=15,B=32)
+;밤
+COLOR25=(T=24,R=1,G=2,B=18)
+
+[HazeringColor]
+NUM=25
+;밤
+COLOR1=(T=0,R=196,G=136,B=136)
+COLOR2=(T=1,R=149,G=111,B=85)
+COLOR3=(T=2,R=149,G=111,B=85)
+COLOR4=(T=3,R=149,G=111,B=85)
+COLOR5=(T=4,R=149,G=111,B=85)
+;새벽
+COLOR6=(T=5,R=196,G=136,B=136)
+COLOR7=(T=6,R=255,G=231,B=134)
+;아침
+COLOR8=(T=7,R=255,G=206,B=140)
+COLOR9=(T=8,R=255,G=206,B=140)
+COLOR10=(T=9,R=255,G=206,B=140)
+COLOR11=(T=10,R=255,G=206,B=140)
+;중천
+COLOR12=(T=11,R=255,G=231,B=147)
+COLOR13=(T=12,R=255,G=231,B=147)
+COLOR14=(T=13,R=255,G=231,B=147)
+COLOR15=(T=14,R=255,G=231,B=147)
+COLOR16=(T=15,R=255,G=231,B=147)
+COLOR17=(T=16,R=255,G=231,B=147)
+COLOR18=(T=17,R=255,G=231,B=147)
+;노을시작
+COLOR19=(T=18,R=255,G=193,B=111)
+COLOR20=(T=19,R=255,G=193,B=111)
+COLOR21=(T=20,R=255,G=206,B=140)
+COLOR22=(T=21,R=255,G=206,B=140)
+;완전노을
+COLOR23=(T=22,R=255,G=206,B=140)
+COLOR24=(T=23,R=255,G=176,B=134)
+;밤
+COLOR25=(T=24,R=149,G=111,B=85)
+
+;구름
+[CloudColor1]
+NUM=25
+;밤
+COLOR1=(T=0,R=137,G=73,B=170)
+COLOR2=(T=1,R=137,G=73,B=170)
+COLOR3=(T=2,R=137,G=73,B=170)
+COLOR4=(T=3,R=137,G=73,B=170)
+COLOR5=(T=4,R=137,G=73,B=170)
+;새벽
+COLOR6=(T=5,R=160,G=100,B=180)
+COLOR7=(T=6,R=185,G=130,B=195)
+;아침
+COLOR8=(T=7,R=210,G=160,B=210)
+COLOR9=(T=8,R=225,G=190,B=225)
+COLOR10=(T=9,R=240,G=210,B=240)
+COLOR11=(T=10,R=255,G=240,B=255)
+;중천
+COLOR12=(T=11,R=255,G=255,B=255)
+COLOR13=(T=12,R=255,G=255,B=255)
+COLOR14=(T=13,R=255,G=255,B=255) 
+COLOR15=(T=14,R=255,G=255,B=255) 
+COLOR16=(T=15,R=255,G=255,B=255) 
+COLOR17=(T=16,R=255,G=255,B=255) 
+COLOR18=(T=17,R=255,G=255,B=255) 
+;노을시작
+COLOR19=(T=18,R=235,G=225,B=235)  
+COLOR20=(T=19,R=225,G=195,B=215)  
+COLOR21=(T=20,R=205,G=165,B=200) 
+COLOR22=(T=21,R=185,G=135,B=185) 
+;완전노을
+COLOR23=(T=22,R=165,G=105,B=180) 
+COLOR24=(T=23,R=145,G=185,B=180) 
+;밤
+COLOR25=(T=24,R=137,G=73,B=170)
+
+;별큰것
+[CloudColor2]
+NUM=25
+;밤
+COLOR1=(T=0,R=200,G=200,B=200)
+COLOR2=(T=1,R=200,G=200,B=200)
+COLOR3=(T=2,R=200,G=200,B=200)
+COLOR4=(T=3,R=200,G=200,B=200)
+COLOR5=(T=4,R=200,G=200,B=200)
+;새벽
+COLOR6=(T=5,R=200,G=200,B=200)
+COLOR7=(T=6,R=200,G=200,B=200)
+;아침
+COLOR8=(T=7,R=200,G=200,B=200)
+COLOR9=(T=8,R=200,G=200,B=200)
+COLOR10=(T=9,R=200,G=200,B=200)
+COLOR11=(T=10,R=200,G=200,B=200)
+;중천
+COLOR12=(T=11,R=120,G=120,B=120)
+COLOR13=(T=12,R=0,G=0,B=0)
+COLOR14=(T=13,R=0,G=0,B=0)
+COLOR15=(T=14,R=0,G=0,B=0)
+COLOR16=(T=15,R=0,G=0,B=0)
+COLOR17=(T=16,R=0,G=0,B=0)
+COLOR18=(T=17,R=0,G=0,B=0)
+;노을시작
+COLOR19=(T=18,R=120,G=120,B=120)
+COLOR20=(T=19,R=200,G=200,B=200)
+COLOR21=(T=20,R=200,G=200,B=200)
+COLOR22=(T=21,R=200,G=200,B=200) 
+;완전노을
+COLOR23=(T=22,R=200,G=200,B=200) 
+COLOR24=(T=23,R=200,G=200,B=200) 
+;밤
+COLOR25=(T=24,R=200,G=200,B=200)
+
+;별작은것
+[CloudColor3]
+NUM=25
+;밤
+COLOR1=(T=0,R=94,G=64,B=154)
+COLOR2=(T=1,R=94,G=64,B=154)
+COLOR3=(T=2,R=94,G=64,B=154)
+COLOR4=(T=3,R=94,G=64,B=154)
+COLOR5=(T=4,R=94,G=64,B=134)
+;새벽
+COLOR6=(T=5,R=80,G=50,B=114)
+COLOR7=(T=6,R=40,G=40,B=40)
+;아침
+COLOR8=(T=7,R=40,G=40,B=40)
+COLOR9=(T=8,R=40,G=40,B=40)
+COLOR10=(T=9,R=40,G=40,B=40)
+COLOR11=(T=10,R=40,G=40,B=40)
+;중천
+COLOR12=(T=11,R=0,G=0,B=0)
+COLOR13=(T=12,R=0,G=0,B=0)
+COLOR14=(T=13,R=0,G=0,B=0)
+COLOR15=(T=14,R=0,G=0,B=0)
+COLOR16=(T=15,R=0,G=0,B=0)
+COLOR17=(T=16,R=0,G=0,B=0)
+COLOR18=(T=17,R=0,G=0,B=0)
+;노을시작
+COLOR19=(T=18,R=64,G=64,B=64)
+COLOR20=(T=19,R=64,G=64,B=64)
+COLOR21=(T=20,R=64,G=64,B=64)
+COLOR22=(T=21,R=64,G=64,B=64)
+;완전노을
+COLOR23=(T=22,R=74,G=64,B=94)
+COLOR24=(T=23,R=84,G=64,B=114)
+;밤
+COLOR25=(T=24,R=94,G=64,B=130)
+
+[TerrainAmbient]
+NUM=25
+;밤		00:00 - 4am
+COLOR1=(T=0,R=51,G=98,B=122)
+COLOR2=(T=1,R=51,G=98,B=122)
+COLOR3=(T=2,R=51,G=98,B=122)
+COLOR4=(T=3,R=51,G=98,B=122)
+COLOR5=(T=4,R=51,G=98,B=122)
+;새벽		5am
+COLOR6=(T=5,R=51,G=98,B=122)
+;아침		6am - 9am
+COLOR7=(T=6,R=100,G=108,B=132)
+COLOR8=(T=7,R=82,G=89,B=109)
+COLOR9=(T=8,R=82,G=89,B=109)
+COLOR10=(T=9,R=82,G=89,B=109)
+;중천		10am - 5pm
+COLOR11=(T=10,R=100,G=100,B=100)
+COLOR12=(T=11,R=120,G=120,B=120)
+COLOR13=(T=12,R=120,G=120,B=120)
+COLOR14=(T=13,R=120,G=120,B=120)
+COLOR15=(T=14,R=120,G=120,B=120)
+COLOR16=(T=15,R=120,G=120,B=120)
+COLOR17=(T=16,R=120,G=120,B=120)
+COLOR18=(T=17,R=100,G=100,B=100)
+;노을시작	6pm - 7pm
+COLOR19=(T=18,R=122,G=107,B=99)
+COLOR20=(T=19,R=122,G=107,B=99)
+;저녁		8pm - 11pm
+COLOR21=(T=20,R=122,G=107,B=99)
+COLOR22=(T=21,R=122,G=107,B=99)
+COLOR23=(T=22,R=122,G=107,B=99)
+COLOR24=(T=23,R=123,G=96,B=72)
+;밤		
+COLOR25=(T=24,R=51,G=98,B=122)
+
+
+[ActorAmbient]
+NUM=25
+;밤
+COLOR1=(T=0,R=75,G=103,B=131)
+COLOR2=(T=1,R=84,G=108,B=131)
+COLOR3=(T=2,R=84,G=108,B=131)
+COLOR4=(T=3,R=84,G=108,B=131)
+COLOR5=(T=4,R=84,G=108,B=131)
+;새벽
+COLOR6=(T=5,R=64,G=88,B=111)
+;아침
+COLOR7=(T=6,R=90,G=97,B=120)
+COLOR8=(T=7,R=67,G=71,B=88)
+COLOR9=(T=8,R=67,G=71,B=88)
+COLOR10=(T=9,R=67,G=71,B=88)
+;중천
+COLOR11=(T=10,R=120,G=120,B=120)
+COLOR12=(T=11,R=150,G=150,B=150)
+COLOR13=(T=12,R=150,G=150,B=150)
+COLOR14=(T=13,R=150,G=150,B=150)
+COLOR15=(T=14,R=150,G=150,B=150)
+COLOR16=(T=15,R=150,G=150,B=150)
+COLOR17=(T=16,R=150,G=150,B=150)
+COLOR18=(T=17,R=120,G=120,B=120)
+;노을시작
+COLOR19=(T=18,R=120,G=120,B=120)
+COLOR20=(T=19,R=120,G=120,B=120)
+;저녁
+COLOR21=(T=20,R=120,G=120,B=120)
+COLOR22=(T=21,R=120,G=120,B=120)
+COLOR23=(T=22,R=152,G=119,B=88)
+COLOR24=(T=23,R=152,G=119,B=88)
+;밤
+COLOR25=(T=24,R=75,G=103,B=131)
+
+[StaticMeshAmbient]
+NUM=25
+;밤
+COLOR1=(T=0,R=75,G=103,B=131)
+COLOR2=(T=1,R=64,G=88,B=111)
+COLOR3=(T=2,R=64,G=88,B=111)
+COLOR4=(T=3,R=64,G=88,B=111)
+COLOR5=(T=4,R=64,G=88,B=111)
+;새벽
+COLOR6=(T=5,R=64,G=88,B=111)
+;아침
+COLOR7=(T=6,R=71,G=77,B=95)
+COLOR8=(T=7,R=67,G=71,B=88)
+COLOR9=(T=8,R=67,G=71,B=88)
+COLOR10=(T=9,R=120,G=120,B=120)
+;중천
+COLOR11=(T=10,R=120,G=120,B=120)
+COLOR12=(T=11,R=120,G=120,B=120)
+COLOR13=(T=12,R=120,G=120,B=120)
+COLOR14=(T=13,R=120,G=120,B=120)
+COLOR15=(T=14,R=120,G=120,B=120)
+COLOR16=(T=15,R=120,G=120,B=120)
+COLOR17=(T=16,R=120,G=120,B=120)
+COLOR18=(T=17,R=120,G=120,B=120)
+;노을시작
+COLOR19=(T=18,R=120,G=120,B=120)
+COLOR20=(T=19,R=120,G=120,B=120)
+;저녁
+COLOR21=(T=20,R=120,G=120,B=120)
+COLOR22=(T=21,R=120,G=120,B=120)
+COLOR23=(T=22,R=132,G=118,B=104)
+COLOR24=(T=23,R=132,G=118,B=104)
+;밤
+COLOR25=(T=24,R=75,G=103,B=131)
+
+[BSPAmbient]
+NUM=25
+;밤
+COLOR1=(T=0,R=64,G=88,B=111)
+COLOR2=(T=1,R=64,G=88,B=111)
+COLOR3=(T=2,R=64,G=88,B=111)
+COLOR4=(T=3,R=64,G=88,B=111)
+COLOR5=(T=4,R=64,G=88,B=111)
+;새벽
+COLOR6=(T=5,R=64,G=88,B=111)
+;아침
+COLOR7=(T=6,R=64,G=88,B=111)
+COLOR8=(T=7,R=67,G=71,B=88)
+COLOR9=(T=8,R=67,G=71,B=88)
+COLOR10=(T=9,R=67,G=71,B=88)
+;중천
+COLOR11=(T=10,R=120,G=120,B=120)
+COLOR12=(T=11,R=120,G=120,B=120)
+COLOR13=(T=12,R=120,G=120,B=120)
+COLOR14=(T=13,R=120,G=120,B=120)
+COLOR15=(T=14,R=120,G=120,B=120)
+COLOR16=(T=15,R=120,G=120,B=120)
+COLOR17=(T=16,R=120,G=120,B=120)
+COLOR18=(T=17,R=120,G=120,B=120)
+;노을시작
+COLOR19=(T=18,R=120,G=120,B=120)
+COLOR20=(T=19,R=120,G=120,B=120)
+;저녁
+COLOR21=(T=20,R=131,G=114,B=90)
+COLOR22=(T=21,R=131,G=114,B=90)
+COLOR23=(T=22,R=131,G=114,B=90)
+COLOR24=(T=23,R=131,G=114,B=90)
+;밤
+COLOR25=(T=24,R=64,G=88,B=111)
+
+[HSVTerrainLight]
+NUM=25
+;밤		00:00 - 4am
+Light1=( T=0, Hue=138, Sat=182, Bri=0 )
+Light2=( T=1, Hue=138, Sat=182, Bri=200)
+Light3=( T=2, Hue=138, Sat=182, Bri=200 )
+Light4=( T=3, Hue=138, Sat=182, Bri=200 )
+Light5=( T=4, Hue=138, Sat=182, Bri=200 )
+;새벽		5am
+Light6=( T=5, Hue=138, Sat=182, Bri=200)
+;아침		6am - 9am
+Light7=( T=6, Hue=29, Sat=153, Bri=100 )
+Light8=( T=7, Hue=29, Sat=153, Bri=450 )
+Light9=( T=8, Hue=29, Sat=153, Bri=450 )
+Light10=( T=9, Hue=29, Sat=153, Bri=450 )
+;중천		10am - 5pm
+Light11=( T=10, Hue=1, Sat=255, Bri=160 )
+Light12=( T=11, Hue=1, Sat=255, Bri=160 )
+Light13=( T=12, Hue=1, Sat=255, Bri=200 )
+Light14=( T=13, Hue=1, Sat=255, Bri=200 )
+Light15=( T=14, Hue=1, Sat=255, Bri=200 )
+Light16=( T=15, Hue=1, Sat=255, Bri=200 )
+Light17=( T=16, Hue=1, Sat=255, Bri=160 )
+Light18=( T=17, Hue=1, Sat=255, Bri=160 )
+;노을시작	6pm - 7pm
+Light19=( T=18, Hue=1, Sat=255, Bri=160 )
+Light20=( T=19, Hue=1, Sat=255, Bri=160 )
+;저녁		8pm - midnight
+Light21=( T=20, Hue=1, Sat=255, Bri=160 )
+Light22=( T=21, Hue=24, Sat=100, Bri=350 )
+Light23=( T=22, Hue=24, Sat=100, Bri=350 )
+Light24=( T=23, Hue=24, Sat=100, Bri=350 )
+Light25=( T=24, Hue=138, Sat=182, Bri=0 )
+
+[HSVActorLight]
+NUM=25
+;밤
+Light1=( T=0, Hue=138, Sat=182, Bri=0 )
+Light2=( T=1, Hue=138, Sat=182, Bri=120 )
+Light3=( T=2, Hue=138, Sat=100, Bri=120 )
+Light4=( T=3, Hue=138, Sat=182, Bri=120 )
+Light5=( T=4, Hue=138, Sat=182, Bri=120 )
+;새벽
+Light6=( T=5, Hue=138, Sat=182, Bri=120 )
+;Light7=( T=6, Hue=138, Sat=182, Bri=0 )
+;아침
+Light7=( T=6, Hue=29, Sat=153, Bri=100 )
+Light8=( T=7, Hue=29, Sat=153, Bri=140 )
+Light9=( T=8, Hue=29, Sat=153, Bri=160 )
+Light10=( T=9, Hue=29, Sat=153, Bri=160 )
+;중천
+Light11=( T=10, Hue=1, Sat=255, Bri=160 )
+Light12=( T=11, Hue=1, Sat=255, Bri=160 )
+Light13=( T=12, Hue=1, Sat=255, Bri=160 )
+Light14=( T=13, Hue=1, Sat=255, Bri=160 )
+Light15=( T=14, Hue=1, Sat=255, Bri=160 )
+Light16=( T=15, Hue=1, Sat=255, Bri=160 )
+Light17=( T=16, Hue=1, Sat=255, Bri=160 )
+Light18=( T=17, Hue=1, Sat=255, Bri=160 )
+;노을시작
+Light19=( T=18, Hue=1, Sat=255, Bri=160 )
+Light20=( T=19, Hue=1, Sat=255, Bri=160 )
+;저녁
+Light21=( T=20, Hue=1, Sat=255, Bri=160 )
+Light22=( T=21, Hue=24, Sat=100, Bri=190 )
+Light23=( T=22, Hue=24, Sat=100, Bri=190 )
+Light24=( T=23, Hue=24, Sat=100, Bri=190 )
+Light25=( T=24, Hue=24, Sat=100, Bri=0 )
+
+[HSVStaticMeshLight]
+NUM=25
+;밤
+Light1=( T=0, Hue=138, Sat=182, Bri=0 )
+Light2=( T=1, Hue=138, Sat=182, Bri=120)
+Light3=( T=2, Hue=138, Sat=100, Bri=120 )
+Light4=( T=3, Hue=138, Sat=182, Bri=120 )
+Light5=( T=4, Hue=138, Sat=182, Bri=120 )
+;새벽
+Light6=( T=5, Hue=138, Sat=182, Bri=120 )
+;Light7=( T=6, Hue=138, Sat=182, Bri=0 )
+;아침
+Light7=( T=6, Hue=29, Sat=153, Bri=100 )
+Light8=( T=7, Hue=29, Sat=153, Bri=140 )
+Light9=( T=8, Hue=29, Sat=153, Bri=160 )
+Light10=( T=9, Hue=29, Sat=200, Bri=180)
+;중천
+Light11=( T=10  Hue=1, Sat=255, Bri=180 )
+Light12=( T=11, Hue=1, Sat=255, Bri=180 )
+Light13=( T=12, Hue=1, Sat=255, Bri=190 )
+Light14=( T=13, Hue=1, Sat=255, Bri=190 )
+Light15=( T=14, Hue=1, Sat=255, Bri=190 )
+Light16=( T=15, Hue=1, Sat=255, Bri=190 )
+Light17=( T=16,  Hue=1, Sat=255, Bri=190 )
+Light18=( T=17, Hue=1, Sat=255, Bri=190 )
+;노을시작
+Light19=( T=18, Hue=1, Sat=255, Bri=190 )
+Light20=( T=19, Hue=1, Sat=255, Bri=190 )
+;저녁
+Light21=( T=20, Hue=1, Sat=255, Bri=190 )
+Light22=( T=21, Hue=24, Sat=100, Bri=200 )
+Light23=( T=22, Hue=24, Sat=100, Bri=255 )
+Light24=( T=23, Hue=24, Sat=100, Bri=255 )
+Light25=( T=24, Hue=24, Sat=100, Bri=0 )
+
+[HSVBSPLight]
+NUM=25
+;밤
+Light1=( T=0, Hue=138, Sat=182, Bri=0 )
+Light2=( T=1, Hue=138, Sat=182, Bri=120 )
+Light3=( T=2, Hue=138, Sat=100, Bri=120 )
+Light4=( T=3, Hue=138, Sat=182, Bri=120 )
+Light5=( T=4, Hue=138, Sat=182, Bri=120 )
+;새벽
+Light6=( T=5, Hue=138, Sat=182, Bri=120 )
+;Light7=( T=6, Hue=138, Sat=182, Bri=0 )
+;아침
+Light7=( T=6, Hue=29, Sat=153, Bri=100 )
+Light8=( T=7, Hue=29, Sat=153, Bri=140 )
+Light9=( T=8, Hue=29, Sat=153, Bri=160 )
+Light10=( T=9, Hue=29, Sat=153, Bri=160 )
+;중천
+Light11=( T=10, Hue=1, Sat=255, Bri=180 )
+Light12=( T=11, Hue=1, Sat=255, Bri=180 )
+Light13=( T=12, Hue=1, Sat=255, Bri=140 )
+Light14=( T=13, Hue=1, Sat=255, Bri=140 )
+Light15=( T=14, Hue=1, Sat=255, Bri=140 )
+Light16=( T=15, Hue=1, Sat=255, Bri=140 )
+Light17=( T=16, Hue=1, Sat=255, Bri=140 )
+Light18=( T=17, Hue=1, Sat=255, Bri=140 )
+;노을시작
+Light19=( T=18, Hue=1, Sat=255, Bri=190 )
+Light20=( T=19, Hue=1, Sat=255, Bri=190 )
+;저녁
+Light21=( T=20, Hue=1, Sat=255, Bri=190 )
+Light22=( T=21, Hue=24, Sat=100, Bri=170 )
+Light23=( T=22, Hue=24, Sat=100, Bri=160 )
+Light24=( T=23, Hue=24, Sat=100, Bri=100 )
+Light25=( T=24, Hue=24, Sat=100, Bri=0 )
